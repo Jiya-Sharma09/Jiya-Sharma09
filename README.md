@@ -1,7 +1,7 @@
 ## Hi, I'm Jiya!
 
 3rd-year B.Tech IT student building mobile apps and backends.
-I work mainly with **Flutter** and **Node.js**, and I'm open to **remote internships** in mobile or backend development.
+I work mainly with **Flutter** and **Node.js**, and I'm open to **remote work and collaborations** in mobile or backend development.
 
 ### What I'm building
 - **[Clarity](https://github.com/Jiya-Sharma09/Clarity-flutter-frontend)**: AI-powered notes app. Flutter app with a Node.js/Express/PostgreSQL backend, AI summaries and RAG-based search. [Backend](https://github.com/Jiya-Sharma09/Clarity-backend) · [APK](link-to-release) · [Demo](link-to-video)
